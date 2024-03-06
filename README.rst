@@ -1,5 +1,5 @@
 =========
-sphinx-js
+A fork of sphinx-js with markupsafe set to 2.1.1 (compatiability with werkzeug and flask)
 =========
 
 Why
